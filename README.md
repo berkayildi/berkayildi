@@ -22,5 +22,4 @@ I build the foundational trust layer for autonomous AI agents, focusing on Machi
 * **MIET** (Member of the Institution of Engineering and Technology)
 
 ### Connect
-* [X / Twitter](https://twitter.com/berkayildi)
-* [LinkedIn](https://linkedin.com/in/by-berkayyildirim)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/berkayildi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/by-berkayyildirim)
