@@ -7,7 +7,7 @@ I build the foundational trust layer for autonomous AI agents, focusing on Machi
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ### Current Focus
-* **[AgentAuth Protocol]():** Enterprise-grade identity and access management (IAM) for the autonomous economy. *(Setting up the org now)*
+* **[Agent Auth Protocol](https://github.com/agent-auth-protocol):** Enterprise-grade identity and access management (IAM) for the autonomous economy. *(Setting up the org now)*
 * **Secure MCPs:** Building the read/write guardrails that allow AI agents to safely interact with AWS, Web3, and edge infrastructure.
 * **Sovereign AI:** Bridging distributed systems with privacy-preserving machine learning.
 
