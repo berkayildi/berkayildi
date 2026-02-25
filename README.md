@@ -13,7 +13,7 @@ I build the foundational trust layer for autonomous AI agents, focusing on Machi
 
 ### Technical Stack
 * **Languages:** Go, TypeScript, Python
-* **Infrastructure:** AWS, Terraform, Edge Compute
+* **Infrastructure:** AWS, Terraform, Cloudflare (Edge Compute & Zero-Trust)
 * **Domains:** Zero-Trust Architecture, Distributed Systems, Applied Cryptography
 
 ### Background
