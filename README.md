@@ -1,6 +1,6 @@
 # Hi, I'm Berkay 👋
 
-**Architecting Trust, Security, and Scalable Infrastructure for the Agentic Economy.**
+**Architecting Trust, Security, and Scalable Infrastructure for the Agents.**
 
 I build the foundational trust layer for autonomous AI agents, focusing on Machine-to-Machine (M2M) authentication, and secure Model Context Protocols (MCPs). 
 
