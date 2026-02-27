@@ -1,4 +1,4 @@
-# Hi, I'm Berkay 👋
+# Hi, I'm Berkay
 
 **Architecting Trust, Security, and Scalable Infrastructure for the Agents.**
 
