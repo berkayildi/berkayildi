@@ -23,7 +23,7 @@
 - 🌟 **Huawei (Ex)** - Software Engineer. Rescued critical international AI platforms; awarded the *Sparkling Star Award* for dynamic problem-solving and resilience.
 - 🏅 **MIET** - Member of the Institution of Engineering and Technology.
 
-## Recognition & Media
+## Recognition
 
 - 🎙️ **[Architecting for Autonomy: A Federated and Explainable AI Blueprint](https://youtu.be/H0jlpiNTdo8?si=tZRLqk5IW5g-bZos)** - Invited speaker at the **Alan Turing Institute** (International Conference on Trustworthy Digital Infrastructure). *Paper currently in publishing process by the IET.*
 - 📜 **Policy Advisor Feedback** - Submitted expert feedback to the UK Government (DSIT) successfully advocating for "Embedded Intelligent and Explainable Security" principles.
