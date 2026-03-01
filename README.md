@@ -38,7 +38,7 @@
 
 ### Philosophy
 
-> "I don't just write code; I anticipate problems and engineer success."
+> "I don't write code; I anticipate problems and engineer solutions."
 
 <details>
 <summary>Random Facts</summary>
