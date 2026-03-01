@@ -23,9 +23,9 @@
 - 🌟 **Huawei (Ex)** - Software Engineer. Rescued critical international AI platforms; awarded the *Sparkling Star Award* for dynamic problem-solving and resilience.
 - 🚀 **TensorSphere** - Founder. Consulting on scalable cloud architecture and data sovereignty for AI integrations.
 
-## Recognition & Policy
+## Recognition
 
-- 🎙️ **[The Alan Turing Institute](https://youtu.be/H0jlpiNTdo8?si=tZRLqk5IW5g-bZos)** - Invited speaker. Presented *"Architecting for Autonomy: A Federated AI Blueprint for the UK Public Services"* at the International Conference on Trustworthy Digital Infrastructure. *(Paper in publishing process by the IET).*
+- 🎙️ **[The Alan Turing Institute](https://youtu.be/H0jlpiNTdo8?si=tZRLqk5IW5g-bZos)** - Invited speaker. Presented *"Architecting for Autonomy: A Federated and Explainable AI Blueprint for UK Public Services"* at the International Conference on Trustworthy Digital Infrastructure. *(Paper in publishing process by the IET).*
 - 📜 **UK Government (DSIT)** - Submitted expert policy feedback advising on the Code of Practice for Enterprise Connected Device Security.
 - 🏅 **MIET** - Member of the Institution of Engineering and Technology & selected foundational Career Mentor.
 
@@ -39,7 +39,7 @@
 > "I don’t just write code; I anticipate structural vulnerabilities—whether in software architecture, market economics, or national data sovereignty—and engineer resilient solutions."
 
 <details>
-<summary>🧠 The Polymath Scope (Random Facts)</summary>
+<summary>Random Facts</summary>
 
 - **Explainable AI (XAI):** Holds an MSc in AI, specializing in using LLMs to translate "Black Box" medical diagnostics into human-readable insights.
 - **Markets & Capital:** Deeply focused on macroeconomics, algorithmic trading, ETFs, and how global capital flows dictate technological paradigm shifts.
