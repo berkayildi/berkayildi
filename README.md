@@ -1,6 +1,6 @@
 # Hi, I'm Berkay
 
-📍 **London ↔ Bristol** | 🛡️ **Systems Architect & Polymath** | 🚀 **Founder @ TensorSphere**
+📍 **London ↔ Bristol** | 🛡️ **Systems Architect** | 🚀 **Founder @ TensorSphere**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
