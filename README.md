@@ -8,8 +8,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-> "I prefer saying _we built it_ over _I built it_."
-
 I build secure cloud infrastructure and AI tooling, with a research focus on Trustworthy Digital Infrastructure — the intersection of Sovereign AI, Explainable AI, and secure cloud architecture.
 
 ## Open Source
@@ -36,6 +34,10 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - **MSc Artificial Intelligence** (UWE Bristol) — Thesis on Medical XAI achieving 92.42% accuracy using ResNet34, Grad-CAM, SHAP, and GPT-4.
 - **Multi-Agent Systems** — UK Economic Strategy paper using LangGraph and Llama 3 for zombie company detection.
 - **Sovereign AI** — Federated AI blueprint for UK public services, presented at the Alan Turing Institute.
+
+## Philosophy
+
+> "I prefer saying _we built it_ over _I built it_."
 
 ## Connect
 
