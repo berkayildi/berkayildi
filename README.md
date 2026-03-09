@@ -12,8 +12,9 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 
 ## Open Source
 
-- 🔍 **[mcp-tfstate-reader](https://github.com/berkayyildirim/mcp-tfstate-reader)** — MCP server that audits Terraform state files for security misconfigurations. Published on [PyPI](https://pypi.org/project/mcp-tfstate-reader/).
-- 💸 **[mcp-aws-cost-explorer](https://github.com/berkayyildirim/mcp-aws-cost-explorer)** — MCP server giving AI agents secure, read-only access to AWS Cost Explorer. Published on [NPM](https://www.npmjs.com/package/mcp-aws-cost-explorer).
+- 🔍 **[mcp-tfstate-reader](https://github.com/berkayyildirim/mcp-tfstate-reader)** — MCP server that audits Terraform state files for 16 security misconfigurations across AWS. 5 tools, 55 tests. Published on [PyPI](https://pypi.org/project/mcp-tfstate-reader/).
+- 💸 **[mcp-aws-cost-explorer](https://github.com/berkayyildirim/mcp-aws-cost-explorer)** — MCP server giving AI agents read-only access to AWS Cost Explorer. 7 tools covering cost analysis, forecasting, anomaly detection, and rightsizing. Published on [NPM](https://www.npmjs.com/package/mcp-aws-cost-explorer).
+- 🎬 **[mcp-content-pipeline](https://github.com/berkayyildirim/mcp-content-pipeline)** — MCP server for YouTube video analysis — transcript extraction, Claude-powered takeaways, and GitHub sync. 78 tests. Published on [PyPI](https://pypi.org/project/mcp-content-pipeline/).
 
 ## Industry
 
