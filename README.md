@@ -1,6 +1,6 @@
 # Hi, I'm Berkay
 
-📍 **London ↔ Bristol** | ☁️ **Solutions Architect** | 🧠 **AI Researcher** | 🚀 **Founder @ TensorSphere**
+📍 **London ↔ Bristol** | ☁️ **Solutions Architect** | 🧠 **AI Researcher** | 🚀 **Founder @ [TensorSphere](https://tensorsphere.com)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -12,16 +12,24 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 
 ## Open Source
 
-- 🔍 **[mcp-tfstate-reader](https://github.com/berkayyildirim/mcp-tfstate-reader)** — MCP server that audits Terraform state files for 16 security misconfigurations across AWS. 5 tools, 55 tests. Published on [PyPI](https://pypi.org/project/mcp-tfstate-reader/).
-- 💸 **[mcp-aws-cost-explorer](https://github.com/berkayyildirim/mcp-aws-cost-explorer)** — MCP server giving AI agents read-only access to AWS Cost Explorer. 7 tools covering cost analysis, forecasting, anomaly detection, and rightsizing. Published on [NPM](https://www.npmjs.com/package/mcp-aws-cost-explorer).
-- 🎬 **[mcp-content-pipeline](https://github.com/berkayyildirim/mcp-content-pipeline)** — MCP server for YouTube video analysis — transcript extraction, Claude-powered takeaways, and GitHub sync. 78 tests. Published on [PyPI](https://pypi.org/project/mcp-content-pipeline/).
+- 🔍 **[mcp-tfstate-reader](https://github.com/berkayildi/mcp-tfstate-reader)** — Terraform state security auditor. 16 AWS rules, 5 tools, 55 tests.
+  <br>[![PyPI](https://img.shields.io/pypi/v/mcp-tfstate-reader)](https://pypi.org/project/mcp-tfstate-reader/) [![Downloads](https://img.shields.io/pypi/dm/mcp-tfstate-reader)](https://pypi.org/project/mcp-tfstate-reader/)
+
+- 💸 **[mcp-aws-cost-explorer](https://github.com/berkayildi/mcp-aws-cost-explorer)** — AWS cost analysis for AI agents. 7 tools: forecasting, anomaly detection, rightsizing.
+  <br>[![NPM](https://img.shields.io/npm/v/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer) [![Downloads](https://img.shields.io/npm/dm/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer)
+
+- 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube analysis pipeline with AI-generated infographics. 5 tools, 104 tests.
+  <br>[![PyPI](https://img.shields.io/pypi/v/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/) [![Downloads](https://img.shields.io/pypi/dm/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/)
+
+- 📰 **[daily-news](https://github.com/berkayildi/daily-news)** — Daily Bloomberg Technology analyses with comic-book infographics. Auto-synced.
+  <br>[![Last Commit](https://img.shields.io/github/last-commit/berkayildi/daily-news)](https://github.com/berkayildi/daily-news)
 
 ## Industry
 
-- ☁️ **[MindWalk](https://www.biostrand.be/)** — Biotech
-- 📡 **[Turkcell](https://www.turkcell.com.tr/)** — Telecommunications
-- 🔬 **[Huawei](https://www.huawei.com/)** — R&D
-- 🏗️ **[Ronesans](https://ronesans.com/)** — Construction & Engineering
+- ☁️ **[MindWalk](https://www.biostrand.be/)** — Lead frontend, Auth@Edge, AI agents (Biotech)
+- 📡 **[Turkcell](https://www.turkcell.com.tr/)** — 5M+ user messaging platform (Telecom)
+- 🔬 **[Huawei](https://www.huawei.com/)** — AI Database Query Platform, Sparkling Star Award (5G and R&D)
+- 🏗️ **[Ronesans](https://ronesans.com/)** — Enterprise project management platform (Construction)
 
 ## Recognition
 
@@ -43,4 +51,4 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 ## Connect
 
 [![X](https://img.shields.io/badge/@berkayildi-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/berkayildi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/by-berkayyildirim)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayildi)
