@@ -1,6 +1,6 @@
 # Hi, I'm Berkay
 
-📍 **London ↔ Bristol** | ☁️ **Solutions Architect** | 🧠 **AI Researcher** | 🚀 **Founder @ [TensorSphere](https://tensorsphere.com)**
+📍 **London ↔ Bristol** | ☁️ **Software Engineer** | 🧠 **AI Researcher** | 🚀 **Founder @ [TensorSphere](https://tensorsphere.com)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -43,10 +43,6 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - **MSc Artificial Intelligence** (UWE Bristol) — Thesis on Medical XAI achieving 92.42% accuracy using ResNet34, Grad-CAM, SHAP, and GPT-4.
 - **Multi-Agent Systems** — UK Economic Strategy paper using LangGraph and Llama 3 for zombie company detection.
 - **Sovereign AI** — Federated AI blueprint for UK public services, presented at the Alan Turing Institute.
-
-## Philosophy
-
-> "I prefer saying _we built it_ over _I built it_."
 
 ## Connect
 
