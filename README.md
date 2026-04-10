@@ -21,8 +21,8 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube analysis pipeline with AI-generated infographics. 5 tools, 104 tests.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/) [![Downloads](https://img.shields.io/pypi/dm/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/)
 
-- 🖼️ **[VidSheet](https://github.com/berkayildi/vidsheet)** — YouTube to structured analysis + comic-book infographic. React/FastAPI web app wrapping mcp-content-pipeline. BYO API keys, zero sign-up.
-  <br>[![Live](https://img.shields.io/badge/live-vidsheet.vercel.app-7c3aed)](https://vidsheet.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/vidsheet)](https://github.com/berkayildi/vidsheet/releases)
+- 🖼️ **[FeedShot](https://github.com/berkayildi/feedshot)** — YouTube and X feed content analysis + comic-book infographic. React/FastAPI web app wrapping mcp-content-pipeline. BYO API keys, zero sign-up.
+  <br>[![Live](https://img.shields.io/badge/live-feedshot.vercel.app-7c3aed)](https://feedshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/feedshot)](https://github.com/berkayildi/feedshot/releases)
 
 - 📰 **[daily-news](https://github.com/berkayildi/daily-news)** — Daily Bloomberg Technology analyses with comic-book infographics. Auto-synced.
   <br>[![Last Commit](https://img.shields.io/github/last-commit/berkayildi/daily-news)](https://github.com/berkayildi/daily-news)
