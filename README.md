@@ -24,6 +24,9 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - 🖼️ **[FeedShot](https://github.com/berkayildi/feedshot)** — YouTube and X feed content analysis + comic-book infographic. React/FastAPI web app wrapping mcp-content-pipeline. BYO API keys, zero sign-up.
   <br>[![Live](https://img.shields.io/badge/live-feedshot.vercel.app-7c3aed)](https://feedshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/feedshot)](https://github.com/berkayildi/feedshot/releases)
 
+- 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Real-time LLM benchmark visualization. Compare models across providers on TTFT, quality, and cost.
+  <br>[![Live](https://img.shields.io/badge/live-llmshot.vercel.app-7c3aed)](https://llmshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/llmshot)](https://github.com/berkayildi/llmshot/releases)
+
 - 📰 **[daily-news](https://github.com/berkayildi/daily-news)** — Daily Bloomberg Technology analyses with comic-book infographics. Auto-synced.
   <br>[![Last Commit](https://img.shields.io/github/last-commit/berkayildi/daily-news)](https://github.com/berkayildi/daily-news)
 
