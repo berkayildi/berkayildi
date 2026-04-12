@@ -12,11 +12,11 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 
 ## Open Source
 
-- 🔍 **[mcp-tfstate-reader](https://github.com/berkayildi/mcp-tfstate-reader)** — Terraform state security auditor. 16 AWS rules, 5 tools, 55 tests.
-  <br>[![PyPI](https://img.shields.io/pypi/v/mcp-tfstate-reader)](https://pypi.org/project/mcp-tfstate-reader/) [![Downloads](https://img.shields.io/pypi/dm/mcp-tfstate-reader)](https://pypi.org/project/mcp-tfstate-reader/)
+- 🧪 **[mcp-llm-eval](https://github.com/berkayildi/mcp-llm-eval)** — LLM evaluation gates for CI/CD. Run datasets against multiple models, score with LLM-as-judge, enforce quality thresholds. 6 tools, 260 tests.
+  <br>[![PyPI](https://img.shields.io/pypi/v/mcp-llm-eval)](https://pypi.org/project/mcp-llm-eval/) [![Downloads](https://img.shields.io/pypi/dm/mcp-llm-eval)](https://pypi.org/project/mcp-llm-eval/)
 
-- 💸 **[mcp-aws-cost-explorer](https://github.com/berkayildi/mcp-aws-cost-explorer)** — AWS cost analysis for AI agents. 7 tools: forecasting, anomaly detection, rightsizing.
-  <br>[![NPM](https://img.shields.io/npm/v/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer) [![Downloads](https://img.shields.io/npm/dm/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer)
+- 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Real-time LLM benchmark visualization. Compare models across providers on TTFT, quality, and cost.
+  <br>[![Live](https://img.shields.io/badge/live-llmshot.vercel.app-7c3aed)](https://llmshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/llmshot)](https://github.com/berkayildi/llmshot/releases)
 
 - 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube and X feed analysis pipeline with AI-generated infographics. 6 tools, 134 tests.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/) [![Downloads](https://img.shields.io/pypi/dm/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/)
@@ -24,8 +24,11 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - 🖼️ **[FeedShot](https://github.com/berkayildi/feedshot)** — YouTube and X feed content analysis + comic-book infographic. React/FastAPI web app wrapping mcp-content-pipeline. BYO API keys, zero sign-up.
   <br>[![Live](https://img.shields.io/badge/live-feedshot.vercel.app-7c3aed)](https://feedshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/feedshot)](https://github.com/berkayildi/feedshot/releases)
 
-- 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Real-time LLM benchmark visualization. Compare models across providers on TTFT, quality, and cost.
-  <br>[![Live](https://img.shields.io/badge/live-llmshot.vercel.app-7c3aed)](https://llmshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/llmshot)](https://github.com/berkayildi/llmshot/releases)
+- 💸 **[mcp-aws-cost-explorer](https://github.com/berkayildi/mcp-aws-cost-explorer)** — AWS cost analysis for AI agents. 7 tools: forecasting, anomaly detection, rightsizing.
+  <br>[![NPM](https://img.shields.io/npm/v/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer) [![Downloads](https://img.shields.io/npm/dm/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer)
+
+- 🔍 **[mcp-tfstate-reader](https://github.com/berkayildi/mcp-tfstate-reader)** — Terraform state security auditor. 16 AWS rules, 5 tools, 55 tests.
+  <br>[![PyPI](https://img.shields.io/pypi/v/mcp-tfstate-reader)](https://pypi.org/project/mcp-tfstate-reader/) [![Downloads](https://img.shields.io/pypi/dm/mcp-tfstate-reader)](https://pypi.org/project/mcp-tfstate-reader/)
 
 - 📰 **[daily-news](https://github.com/berkayildi/daily-news)** — Daily Bloomberg Technology analyses with comic-book infographics. Auto-synced.
   <br>[![Last Commit](https://img.shields.io/github/last-commit/berkayildi/daily-news)](https://github.com/berkayildi/daily-news)
