@@ -18,7 +18,7 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - 💸 **[mcp-aws-cost-explorer](https://github.com/berkayildi/mcp-aws-cost-explorer)** — AWS cost analysis for AI agents. 7 tools: forecasting, anomaly detection, rightsizing.
   <br>[![NPM](https://img.shields.io/npm/v/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer) [![Downloads](https://img.shields.io/npm/dm/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer)
 
-- 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube analysis pipeline with AI-generated infographics. 5 tools, 104 tests.
+- 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube and X feed analysis pipeline with AI-generated infographics. 6 tools, 134 tests.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/) [![Downloads](https://img.shields.io/pypi/dm/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/)
 
 - 🖼️ **[FeedShot](https://github.com/berkayildi/feedshot)** — YouTube and X feed content analysis + comic-book infographic. React/FastAPI web app wrapping mcp-content-pipeline. BYO API keys, zero sign-up.
