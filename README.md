@@ -12,10 +12,10 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 
 ## Open Source
 
-- 🧪 **[mcp-llm-eval](https://github.com/berkayildi/mcp-llm-eval)** — LLM evaluation gates for CI/CD. Run datasets against multiple models, score with LLM-as-judge, enforce quality thresholds. 6 tools, 260 tests.
+- 🧪 **[mcp-llm-eval](https://github.com/berkayildi/mcp-llm-eval)** — LLM evaluation engine powering CI/CD quality gates and benchmark runs. Run datasets against multiple models, score with LLM-as-judge, enforce quality thresholds. Used by [LLMShot](https://llmshot.vercel.app) for cross-provider benchmarking.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-llm-eval)](https://pypi.org/project/mcp-llm-eval/) [![Downloads](https://img.shields.io/pypi/dm/mcp-llm-eval)](https://pypi.org/project/mcp-llm-eval/)
 
-- 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Real-time LLM benchmark visualization. Compare models across providers on TTFT, quality, and cost.
+- 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Multi-domain LLM benchmark dashboard. Real-time inference and text generation across 5 models, 3 providers, ~245 runs.
   <br>[![Live](https://img.shields.io/badge/live-llmshot.vercel.app-7c3aed)](https://llmshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/llmshot)](https://github.com/berkayildi/llmshot/releases)
 
 - 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube and X feed analysis pipeline with AI-generated infographics. 6 tools, 134 tests.
