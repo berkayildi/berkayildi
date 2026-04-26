@@ -18,7 +18,7 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube and X feed analysis pipeline with AI-generated infographics. 6 tools, 149 tests.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/) [![Downloads](https://img.shields.io/pypi/dm/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/)
 
-- 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Multi-domain LLM benchmark dashboard. Real-time inference and text generation across 5 models, 3 providers, ~245 runs.
+- 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Multi-domain LLM benchmark dashboard. Real-time inference, text generation, and retrieval/RAG across 5 generation models, 4 retrievers, 645 runs.
   <br>[![Live](https://img.shields.io/badge/live-llmshot.vercel.app-7c3aed)](https://llmshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/llmshot)](https://github.com/berkayildi/llmshot/releases)
 
 - 📈 **[llm-benchmarks](https://github.com/berkayildi/llm-benchmarks)** — Benchmark datasets and results evaluating LLMs across providers on quality, latency, and cost. Served via GitHub Pages; rendered live in [LLMShot](https://llmshot.vercel.app).
@@ -34,6 +34,17 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 
 - 📰 **[daily-news](https://github.com/berkayildi/daily-news)** — Daily Bloomberg Technology analyses with comic-book infographics. Auto-synced.
   <br>[![Last Commit](https://img.shields.io/github/last-commit/berkayildi/daily-news)](https://github.com/berkayildi/daily-news)
+
+## How these connect
+
+The four LLM repos form a small ecosystem:
+
+- **[mcp-llm-eval](https://github.com/berkayildi/mcp-llm-eval)** is the evaluation engine. It ships as a PyPI package with an MCP server, a CLI, and pluggable retrieval adapters (BM25 plus three embedding-based).
+- **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** consumes mcp-llm-eval as a CI quality gate, with its own golden dataset for video and X feed analysis.
+- **[llm-benchmarks](https://github.com/berkayildi/llm-benchmarks)** is the data layer. Every benchmark run from any producer writes its JSON results here. Served via GitHub Pages.
+- **[LLMShot](https://github.com/berkayildi/llmshot)** is the visualization layer. It fetches the benchmark JSON and renders three domain dashboards live.
+
+One engine, multiple consumers, one public artifact. Each producer defines its own quality bar without forking the engine.
 
 ## Industry
 
