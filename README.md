@@ -15,10 +15,10 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - 🧪 **[mcp-llm-eval](https://github.com/berkayildi/mcp-llm-eval)** — LLM evaluation engine powering CI/CD quality gates and benchmark runs. Run datasets against multiple models, score with LLM-as-judge, enforce quality thresholds. Used by [LLMShot](https://llmshot.vercel.app) for cross-provider benchmarking.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-llm-eval)](https://pypi.org/project/mcp-llm-eval/) [![Downloads](https://img.shields.io/pypi/dm/mcp-llm-eval)](https://pypi.org/project/mcp-llm-eval/)
 
-- 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube and X feed analysis pipeline with AI-generated infographics. 6 tools, 149 tests.
+- 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube and X feed analysis pipeline with AI-generated infographics. 6 tools, 72 tests.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/) [![Downloads](https://img.shields.io/pypi/dm/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/)
 
-- 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Multi-domain LLM benchmark dashboard. Real-time inference, text generation, and retrieval/RAG across 8 generation models, 4 retrievers, ~1095 runs.
+- 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Multi-domain LLM benchmark dashboard. Real-time inference, text generation, and retrieval/RAG across 8 generation models, 4 retrievers, ~790 runs.
   <br>[![Live](https://img.shields.io/badge/live-llmshot.vercel.app-7c3aed)](https://llmshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/llmshot)](https://github.com/berkayildi/llmshot/releases)
 
 - 📈 **[llm-benchmarks](https://github.com/berkayildi/llm-benchmarks)** — Benchmark datasets and results evaluating LLMs across providers on quality, latency, and cost. Served via GitHub Pages; rendered live in [LLMShot](https://llmshot.vercel.app).
