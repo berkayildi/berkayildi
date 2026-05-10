@@ -6,7 +6,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/-Bicep-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 I build secure cloud infrastructure and AI tooling, with a research focus on Trustworthy Digital Infrastructure — the intersection of Sovereign AI, Explainable AI, and secure cloud architecture.
 
@@ -17,6 +19,9 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 
 - 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube and X feed analysis pipeline with AI-generated infographics. 6 tools, 72 tests.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/) [![Downloads](https://img.shields.io/pypi/dm/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/)
+
+- ☁️ **[rag-on-azure](https://github.com/berkayildi/rag-on-azure)** — Production-shaped RAG application on Microsoft Azure. Bicep IaC + FastAPI + LangGraph over UK regulatory corpus (FCA Handbook + HMRC). Multi-tenant via JWT-driven OData filters, OIDC-federated CI, mcp-llm-eval gate runs on every push to main, p95 retrieval 8.3ms, citation faithfulness 0.99. Live results render on [LLMShot](https://llmshot.vercel.app/retrieval).
+  <br>[![GitHub](https://img.shields.io/github/v/release/berkayildi/rag-on-azure)](https://github.com/berkayildi/rag-on-azure/releases)
 
 - 📊 **[LLMShot](https://github.com/berkayildi/llmshot)** — Multi-domain LLM benchmark dashboard. Real-time inference, text generation, and retrieval/RAG across 8 generation models, 4 retrievers, ~790 runs.
   <br>[![Live](https://img.shields.io/badge/live-llmshot.vercel.app-7c3aed)](https://llmshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/llmshot)](https://github.com/berkayildi/llmshot/releases)
@@ -37,10 +42,11 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 
 ## How these connect
 
-The four LLM repos form a small ecosystem:
+The five LLM repos form a small ecosystem:
 
 - **[mcp-llm-eval](https://github.com/berkayildi/mcp-llm-eval)** is the evaluation engine. It ships as a PyPI package with an MCP server, a CLI, and pluggable retrieval adapters (BM25 plus three embedding-based).
 - **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** consumes mcp-llm-eval as a CI quality gate, with its own golden dataset for video and X feed analysis.
+- **[rag-on-azure](https://github.com/berkayildi/rag-on-azure)** consumes mcp-llm-eval against a deployed Azure AI Search index, snapshotting the corpus on every CI run and gating merges to main on retrieval and faithfulness thresholds.
 - **[llm-benchmarks](https://github.com/berkayildi/llm-benchmarks)** is the data layer. Every benchmark run from any producer writes its JSON results here. Served via GitHub Pages.
 - **[LLMShot](https://github.com/berkayildi/llmshot)** is the visualization layer. It fetches the benchmark JSON and renders three domain dashboards live.
 
