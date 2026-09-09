@@ -1,6 +1,6 @@
 # Hi, I'm Berkay
 
-📍 **London ↔ Bristol** | ☁️ **Software Engineer** | 🧠 **AI Researcher** | 🚀 **Founder @ [TensorSphere](https://tensorsphere.com)**
+📍 **London** | ⚙️ **LLM Ops Engineer @ Quantios** | 🚀 **Founder @ [TensorSphere](https://tensorsphere.com)**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -84,3 +84,5 @@ One engine, multiple consumers, one public artifact. Each producer defines its o
 
 [![X](https://img.shields.io/badge/@berkayildi-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/berkayildi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayildi)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Ez5RfDgAAAAJ)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1373-3585)
