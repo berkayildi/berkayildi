@@ -31,12 +31,6 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - 🖼️ **[FeedShot](https://github.com/berkayildi/feedshot)** — YouTube and X feed content analysis + comic-book infographic. React/FastAPI web app wrapping mcp-content-pipeline. BYO API keys, zero sign-up.
   <br>[![Live](https://img.shields.io/badge/live-feedshot.vercel.app-7c3aed)](https://feedshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/feedshot)](https://github.com/berkayildi/feedshot/releases)
 
-- 💸 **[mcp-aws-cost-explorer](https://github.com/berkayildi/mcp-aws-cost-explorer)** — AWS cost analysis for AI agents. 7 tools: forecasting, anomaly detection, rightsizing.
-  <br>[![NPM](https://img.shields.io/npm/v/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer) [![Downloads](https://img.shields.io/npm/dm/mcp-aws-cost-explorer)](https://www.npmjs.com/package/mcp-aws-cost-explorer)
-
-- 🔍 **[mcp-tfstate-reader](https://github.com/berkayildi/mcp-tfstate-reader)** — Terraform state security auditor. 16 AWS rules, 5 tools, 55 tests.
-  <br>[![PyPI](https://img.shields.io/pypi/v/mcp-tfstate-reader)](https://pypi.org/project/mcp-tfstate-reader/) [![Downloads](https://img.shields.io/pypi/dm/mcp-tfstate-reader)](https://pypi.org/project/mcp-tfstate-reader/)
-
 - 📰 **[daily-news](https://github.com/berkayildi/daily-news)** — Daily Bloomberg Technology analyses with comic-book infographics. Auto-synced.
   <br>[![Last Commit](https://img.shields.io/github/last-commit/berkayildi/daily-news)](https://github.com/berkayildi/daily-news)
 
