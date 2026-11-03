@@ -17,7 +17,7 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 - 🧪 **[mcp-llm-eval](https://github.com/berkayildi/mcp-llm-eval)** — LLM evaluation engine powering CI/CD quality gates and benchmark runs. Run datasets against multiple models, score with LLM-as-judge, enforce quality thresholds. Used by [LLMShot](https://llmshot.vercel.app) for cross-provider benchmarking.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-llm-eval)](https://pypi.org/project/mcp-llm-eval/) [![Downloads](https://img.shields.io/pypi/dm/mcp-llm-eval)](https://pypi.org/project/mcp-llm-eval/)
 
-- 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube and X feed analysis pipeline with AI-generated infographics. 6 tools, 72 tests.
+- 🎬 **[mcp-content-pipeline](https://github.com/berkayildi/mcp-content-pipeline)** — YouTube and X feed analysis pipeline with GitHub sync and a CI eval gate. 3 tools, 122 tests.
   <br>[![PyPI](https://img.shields.io/pypi/v/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/) [![Downloads](https://img.shields.io/pypi/dm/mcp-content-pipeline)](https://pypi.org/project/mcp-content-pipeline/)
 
 - ☁️ **[rag-on-azure](https://github.com/berkayildi/rag-on-azure)** — Production-shaped RAG application on Microsoft Azure. Bicep IaC + FastAPI + LangGraph over UK regulatory corpus (FCA Handbook + HMRC). Multi-tenant via JWT-driven OData filters, OIDC-federated CI, mcp-llm-eval gate runs on every push to main, p95 retrieval 8.3ms, citation faithfulness 0.99. Live results render on [LLMShot](https://llmshot.vercel.app/retrieval).
@@ -28,10 +28,7 @@ I build secure cloud infrastructure and AI tooling, with a research focus on Tru
 
 - 📈 **[llm-benchmarks](https://github.com/berkayildi/llm-benchmarks)** — Benchmark datasets and results evaluating LLMs across providers on quality, latency, and cost. Served via GitHub Pages; rendered live in [LLMShot](https://llmshot.vercel.app).
 
-- 🖼️ **[FeedShot](https://github.com/berkayildi/feedshot)** — YouTube and X feed content analysis + comic-book infographic. React/FastAPI web app wrapping mcp-content-pipeline. BYO API keys, zero sign-up.
-  <br>[![Live](https://img.shields.io/badge/live-feedshot.vercel.app-7c3aed)](https://feedshot.vercel.app) [![GitHub](https://img.shields.io/github/v/release/berkayildi/feedshot)](https://github.com/berkayildi/feedshot/releases)
-
-- 📰 **[daily-news](https://github.com/berkayildi/daily-news)** — Daily Bloomberg Technology analyses with comic-book infographics. Auto-synced.
+- 📰 **[daily-news](https://github.com/berkayildi/daily-news)** — YouTube video analyses and X feed digests from mcp-content-pipeline. Auto-synced.
   <br>[![Last Commit](https://img.shields.io/github/last-commit/berkayildi/daily-news)](https://github.com/berkayildi/daily-news)
 
 ## How these connect
